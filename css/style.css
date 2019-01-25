@@ -1,0 +1,7 @@
+#expected {
+  position: absolute;
+  left: 15em;
+}
+#expected h2 {
+  margin-top: 0;
+}
